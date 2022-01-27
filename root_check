@@ -1,7 +1,8 @@
 #!/bin/bash
-
+echo
 if [ ${UID} -ne o]
 then
+echo
 echo "you need root access"
 exist 1
 fi
